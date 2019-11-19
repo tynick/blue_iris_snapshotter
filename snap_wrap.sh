@@ -7,5 +7,5 @@
 my_dir="$( cd "$(dirname "$0")" ; pwd -P )"
 
 # run for each camera you want a snapshot of
-"${my_dir}"/cam_snap.sh backyard-03
-"${my_dir}"/cam_snap.sh backpatio-01
+"${my_dir}"/snap.sh backyard-03
+"${my_dir}"/snap.sh backpatio-01
